@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/AndrewEToh/CSE-110-SP19-LAB-5.svg?branch=master)](https://travis-ci.org/AndrewEToh/CSE-110-SP19-LAB-5)
